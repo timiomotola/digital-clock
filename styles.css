@@ -33,3 +33,18 @@ body{
     letter-spacing: 2px;
     background-color: #a8a9ad;
 }
+
+
+@media (max-width: 767px){
+
+    .timiNav{
+        padding: 30px;
+        font-size: 25px;
+    }
+
+    .clock{
+        padding: 75px;
+        font-size: 50px;
+        letter-spacing: 7px;
+    }
+}
